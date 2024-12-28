@@ -1,1 +1,43 @@
 # chachoengsao-tourism-66160034_bootstrap
+## git command used in this lab
+- git add index.html
+- git commit -m "ปรับปรุง index.html ด้วย Bootstrap"
+- git add contact.html
+- git commit -m "ปรับปรุง contact.html ด้วย Bootstrap 5"
+- git add attractions.html
+- git commit -m "ปรับปรุง attractions.html ด้วย Bootstrap 5"
+- git add index.html
+- git commit -m "เพิ่ม Grid Section พร้อมแสดงสถานที่ท่องเที่ยว 8 แห่งใน index.html"
+- git add contact.html
+- git commit -m "เพิ่มฟอร์มติดต่อแบบ Modal ด้วย Bootstrap"
+- git add index.html
+- git commit -m "เพิ่ม Grid Section แสดงสถานที่ท่องเที่ยว 8 แห่งพร้อม Responsive Design"
+- git add index.html
+- git commit -m "ปรับปรุง index.html เพิ่มช่องทางติดต่อ"
+- git add attractions.html
+- git commit -m "ปรับปรุง attractions.html เพิ่มช่องทางติดต่อ"
+- git add contact.html
+- git commit -m "ปรับปรุง contact.html เพิ่มช่องทางติดต่อ"
+- git add attractions.html
+- git commit -m "ปรับปรุง attractions.html เพิ่ม Search Box"
+- git add contact.html
+- git commit -m "ปรับปรุง contact.html เพิ่ม Search Box"
+- git add screenshot1.pdf
+- git commit -m "เพิ่มรูป screenshot 1"
+- git add screenshot2.pdf
+- git commit -m "เพิ่มรูป screenshot 2"
+- git add screenshot3.pdf
+- git commit -m "เพิ่มรูป screenshot 3"
+- git add screenshot4.pdf
+- git commit -m "เพิ่มรูป screenshot 4"
+- git checkout main
+- git pull
+- git checkout -b develop
+- git checkout develop
+- git merge feature/home
+- git merge feature/attractions
+- git merge feature/contact
+- git push origin develop
+- git add README.md
+- git commit -m "git command used in this lab"
+- git push origin develop
